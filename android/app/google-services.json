@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "339950160911",
+    "project_id": "flutter-ajent",
+    "storage_bucket": "flutter-ajent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339950160911:android:8ea13f5b9cf9e91f13a77a",
+        "android_client_info": {
+          "package_name": "com.example.ajent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339950160911-h2bd6v6o0pbuej06rvbdfgmsj00hef1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ajent",
+            "certificate_hash": "c804d02a70569e8eb3734d57e0cd51638beaf452"
+          }
+        },
+        {
+          "client_id": "930529302228-7lk0kan5racred9c9ub9sltmeb6jncaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCINF1Mf7es-jsfGxzGQxXwmautUDNVpAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339950160911-h2bd6v6o0pbuej06rvbdfgmsj00hef1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
